@@ -23,3 +23,8 @@ C:\Users\Sherman\Desktop\Navegador TP-4 - AlumnoV2\Hilo\obj\Debug\Hilo.dll
 C:\Users\Sherman\Desktop\Navegador TP-4 - AlumnoV2\Hilo\obj\Debug\Hilo.pdb
 C:\Users\Sherman\Desktop\Navegador TP-4 - AlumnoV2\Hilo\bin\Debug\Hilo.dll
 C:\Users\Sherman\Desktop\Navegador TP-4 - AlumnoV2\Hilo\bin\Debug\Hilo.pdb
+C:\Users\Sherman\Desktop\TP4\Hilo\bin\Debug\Hilo.dll
+C:\Users\Sherman\Desktop\TP4\Hilo\bin\Debug\Hilo.pdb
+C:\Users\Sherman\Desktop\TP4\Hilo\obj\Debug\Hilo.csprojResolveAssemblyReference.cache
+C:\Users\Sherman\Desktop\TP4\Hilo\obj\Debug\Hilo.dll
+C:\Users\Sherman\Desktop\TP4\Hilo\obj\Debug\Hilo.pdb

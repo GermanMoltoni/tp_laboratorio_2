@@ -44,7 +44,7 @@ namespace Hilo
         }
         private void WebClientDownloadCompleted(object sender, DownloadStringCompletedEventArgs e)
         {
-            this.html = e.Result;// Codigo de la pagina 
+            this.html = e.Result;// Codigo de la pagina
             DescargaCompleta(this.html);   
         }
 

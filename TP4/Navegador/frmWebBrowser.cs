@@ -100,10 +100,9 @@ namespace Navegador
             {
                 if (!this.txtUrl.Text.Contains("http://"))
                     this.txtUrl.Text = string.Concat("http://", this.txtUrl.Text);
-                Descargador descarga = new Descargador(new Uri(this.txtUrl.Text));// Creo una descarga de la url pasada
                 try
                 {
-                    
+                    Descargador descarga = new Descargador(new Uri(this.txtUrl.Text));// Creo una descarga de la url pasada
                     Thread descargador = new Thread(descarga.IniciarDescarga);// Creo un hilo del metodo IniciarDescarga 
                     descarga.ProgresoDescarga += new Descargador.DownloadProgress(this.ProgresoDescarga);
                     descarga.DescargaCompleta += new Descargador.DownloadCompleted(this.FinDescarga);
